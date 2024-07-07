@@ -1,0 +1,5 @@
+.env
+*.csv
+.idea
+data/
+*.numbers
